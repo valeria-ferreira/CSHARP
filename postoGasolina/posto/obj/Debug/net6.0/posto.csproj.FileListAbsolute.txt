@@ -1,0 +1,15 @@
+C:\workspace\CSharp\postoGasolina\posto\bin\Debug\net6.0\posto.exe
+C:\workspace\CSharp\postoGasolina\posto\bin\Debug\net6.0\posto.deps.json
+C:\workspace\CSharp\postoGasolina\posto\bin\Debug\net6.0\posto.runtimeconfig.json
+C:\workspace\CSharp\postoGasolina\posto\bin\Debug\net6.0\posto.dll
+C:\workspace\CSharp\postoGasolina\posto\bin\Debug\net6.0\posto.pdb
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.csproj.AssemblyReference.cache
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.AssemblyInfoInputs.cache
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.AssemblyInfo.cs
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.dll
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\refint\posto.dll
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.pdb
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\posto.genruntimeconfig.cache
+C:\workspace\CSharp\postoGasolina\posto\obj\Debug\net6.0\ref\posto.dll

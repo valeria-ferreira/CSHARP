@@ -1,0 +1,15 @@
+C:\workspace\CSharp\caixaDeEmpresa\caixa\bin\Debug\net6.0\caixa.exe
+C:\workspace\CSharp\caixaDeEmpresa\caixa\bin\Debug\net6.0\caixa.deps.json
+C:\workspace\CSharp\caixaDeEmpresa\caixa\bin\Debug\net6.0\caixa.runtimeconfig.json
+C:\workspace\CSharp\caixaDeEmpresa\caixa\bin\Debug\net6.0\caixa.dll
+C:\workspace\CSharp\caixaDeEmpresa\caixa\bin\Debug\net6.0\caixa.pdb
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.csproj.AssemblyReference.cache
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.AssemblyInfoInputs.cache
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.AssemblyInfo.cs
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.dll
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\refint\caixa.dll
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.pdb
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\caixa.genruntimeconfig.cache
+C:\workspace\CSharp\caixaDeEmpresa\caixa\obj\Debug\net6.0\ref\caixa.dll

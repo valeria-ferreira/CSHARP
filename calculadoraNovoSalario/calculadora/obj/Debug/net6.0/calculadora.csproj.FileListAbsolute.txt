@@ -1,0 +1,15 @@
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\workspace\CSharp\calculadoraNovoSalario\calculadora\obj\Debug\net6.0\ref\calculadora.dll

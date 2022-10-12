@@ -1,0 +1,15 @@
+C:\workspace\CSharp\VerificadorIdade\program\bin\Debug\net6.0\program.exe
+C:\workspace\CSharp\VerificadorIdade\program\bin\Debug\net6.0\program.deps.json
+C:\workspace\CSharp\VerificadorIdade\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\workspace\CSharp\VerificadorIdade\program\bin\Debug\net6.0\program.dll
+C:\workspace\CSharp\VerificadorIdade\program\bin\Debug\net6.0\program.pdb
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.dll
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\refint\program.dll
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.pdb
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+C:\workspace\CSharp\VerificadorIdade\program\obj\Debug\net6.0\ref\program.dll

@@ -1,0 +1,15 @@
+C:\workspace\CSharp\verificadorDePromocao\verificador\bin\Debug\net6.0\verificador.exe
+C:\workspace\CSharp\verificadorDePromocao\verificador\bin\Debug\net6.0\verificador.deps.json
+C:\workspace\CSharp\verificadorDePromocao\verificador\bin\Debug\net6.0\verificador.runtimeconfig.json
+C:\workspace\CSharp\verificadorDePromocao\verificador\bin\Debug\net6.0\verificador.dll
+C:\workspace\CSharp\verificadorDePromocao\verificador\bin\Debug\net6.0\verificador.pdb
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.csproj.AssemblyReference.cache
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.AssemblyInfoInputs.cache
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.AssemblyInfo.cs
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.dll
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\refint\verificador.dll
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.pdb
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\verificador.genruntimeconfig.cache
+C:\workspace\CSharp\verificadorDePromocao\verificador\obj\Debug\net6.0\ref\verificador.dll
